@@ -3,5 +3,6 @@ public class magic {
         System.out.println("Hello");
         // b21 is good at intellij
         // mac user and windows users are
+        // i have already published on github
     }
 }
